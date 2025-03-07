@@ -3,11 +3,16 @@
 
 
 🎬 Movie Search App 🌟
+
 A sleek and responsive Movie Search App that lets you discover your favorite movies instantly! This app integrates with a Movie Database API to fetch real-time movie details, ratings, and posters. 🚀
 
+
 💡 Features
+
 ✅ Search Movies – Find any movie by title in seconds! 🔍
+
 ✅ Movie Details – View ratings, descriptions, release dates, and more. 🎞️
+
 ✅ Beautiful UI – A clean and modern interface for a seamless experience. 🎨
 ✅ Responsive Design – Works perfectly on mobile and desktop devices. 📱💻
 ✅ Favorites List – Save your top picks for easy access. ❤️
